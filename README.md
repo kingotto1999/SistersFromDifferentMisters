@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+Welcome to The Sisters From Different Misters Website!!!
+Welcome to our group website for Sisters From Different Misters we hope you enjoy your stay!
 
-You can use the [editor on GitHub](https://github.com/kingotto1999/SistersFromDifferentMisters/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Group Members Websites
+Juan: https://tatejuan12.github.io/tatejuan/?fbclid=IwAR3IeYVyz-XmYMZK9Sm0H4iV06scWGtUfwrd3FRDQEikMUXAQdb7EFzGIho#
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Clemente: https://clementalea.github.io/index.html?fbclid=IwAR0l98d2zzcuSqAy7fVMHsPZOg0-Ff3ghoF5hjZlfb50NCQusjItNEwjSkM
 
-### Markdown
+Tom: https://tomnunanrmit.github.io/REAL-ASSIGNMENT-1-/?fbclid=IwAR31I5OJvU-6iiH7aU4ihL_I3NGLDmnoDvhbU8D-WCW-8cbrLn_VCO1mKWc
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+David: https://s3784208.github.io/Assignment-1/?fbclid=IwAR11tcSQfvWZmTav2pzId_0OeQvrMRWsv9bnOiZqjhAnj1IrTQARR5aN-_Y
 
-```markdown
-Syntax highlighted code block
+Ryan:
 
-# Header 1
-## Header 2
-### Header 3
+Kenneth: https://kennethk123.github.io/
 
-- Bulleted
-- List
+Sam: N/A (did not complete)
 
-1. Numbered
-2. List
+Git Repository
+Here is our GitRepository: https://github.com/s3787580/SistersFromDifferentMisters
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kingotto1999/SistersFromDifferentMisters/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
