@@ -1,4 +1,10 @@
 # Welcome to our group website for Sisters From Different Misters we hope you enjoy your stay!
+On this page you will find a bit about each team member as well as links to their personal websites and our Git repository.
+---
+layout: page
+title: About
+---
+
 
 ## Group Members Websites:
 
@@ -10,7 +16,7 @@
 
 4. David: https://s3784208.github.io/Assignment-1/?fbclid=IwAR11tcSQfvWZmTav2pzId_0OeQvrMRWsv9bnOiZqjhAnj1IrTQARR5aN-_Y
 
-5. Ryan:
+5. Ryan: https://s3787580.github.io/?fbclid=IwAR0hoOtnA0ALVEGmezQcIzINfCGdvfp-F2o4IRro7VZIEiRJ5ktAP4cDIRE
 
 6. Kenneth: https://kennethk123.github.io/
 
