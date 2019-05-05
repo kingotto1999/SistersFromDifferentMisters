@@ -1,8 +1,8 @@
 # Welcome to our group website for Sisters From Different Misters we hope you enjoy your stay!
 On this page you will find a bit about each team member as well as links to their personal websites and our Git repository!
 
-## About our group members
-
+## Team Profile:
+Our groups personality meshes really well, we have several extro and introverts, which is good, since the extroverts will make the others feel comfortable, Moreover, all of us are prospecting, hence we are not judgemental of each other, which will really come in handy in regards to our differing work ethics. Our group have differing personalities, however this is not a bad thing, since every personality trait has a strength and a weakness, and since we have traits in different spectrums, these strengths and weaknesses will not overlap, hence resulting in a group that has a diverse skill set.
 
 ## Group Members Websites:
 
