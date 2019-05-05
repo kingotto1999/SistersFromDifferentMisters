@@ -1,6 +1,7 @@
 # Welcome to our group website for Sisters From Different Misters we hope you enjoy your stay!
 On this page you will find a bit about each team member as well as links to their personal websites and our Git repository!
 
+## About our group members
 
 
 ## Group Members Websites:
