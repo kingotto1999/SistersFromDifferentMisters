@@ -4,7 +4,14 @@ On this page you will find a bit about each team member as well as links to thei
 ## Team Profile:
 Our groups personality meshes really well, we have several extro and introverts, which is good, since the extroverts will make the others feel comfortable, Moreover, all of us are prospecting, hence we are not judgemental of each other, which will really come in handy in regards to our differing work ethics. Our group have differing personalities, however this is not a bad thing, since every personality trait has a strength and a weakness, and since we have traits in different spectrums, these strengths and weaknesses will not overlap, hence resulting in a group that has a diverse skill set.
 
+## Our Teams Goal
+Our goal as a Team is to make a text based RPG set in a cyberpunk world.
+Our main inspiration for this project are from certain epiosdes of the Netflix series "Love Death and Robots" as well as "Dungeons and Dragons" and "ShadowRun" the video game. 
+
+
 ## Group Members Websites:
+
+If you would like to find out more about our group, you can find out more about individual work done by each member at their personal repositorys linked below! 
 
 1. Juan: https://tatejuan12.github.io/tatejuan/?fbclid=IwAR3IeYVyz-XmYMZK9Sm0H4iV06scWGtUfwrd3FRDQEikMUXAQdb7EFzGIho#
 
@@ -22,5 +29,8 @@ Our groups personality meshes really well, we have several extro and introverts,
 
 ### Git Repository
 Here is our GitRepository: https://github.com/s3787580/SistersFromDifferentMisters
+
+
+
 
 
